@@ -1,0 +1,1 @@
+python3 irrp.py -r -g23 -f ./codes/codes aircon:on --post 130
